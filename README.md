@@ -106,7 +106,7 @@ stock_trader/
 ### Install Dependencies
 
 ```bash
-pip install langgraph rich
+pip install -r requirements.txt
 ```
 
 No API keys needed. The AI research is simulated locally using price movement logic. LangGraph is used purely as a state machine framework.
